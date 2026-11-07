@@ -1,0 +1,9 @@
+{
+    "manifest_version":3,
+    "version":"1.0",
+    "name":"lead tracker",
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"13_money_coin_icon.png"
+    }
+}
